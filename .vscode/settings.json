@@ -1,0 +1,10 @@
+{
+    "markdown-pdf.includeDefaultStyles": false,
+    "markdown-pdf.styles": [
+        "style.css"
+    ],
+    "markdown-pdf.margin.top": "10mm",
+    "markdown-pdf.margin.right": "20mm",
+    "markdown-pdf.margin.bottom": "20mm",
+    "markdown-pdf.margin.left": "20mm"
+}

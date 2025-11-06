@@ -1,0 +1,47 @@
+/* style.css */
+@page {
+    margin-top: 0.35in;
+    margin-bottom: 0.35in;
+    margin-left: 0.35in;
+    margin-right: 0.35in;
+}
+
+body {
+    font-family: 'Calibri', 'Candara', 'Segoe', 'Segoe UI', 'Optima', Arial, sans-serif;
+    font-size: 12pt;
+    line-height: 1.4;
+    max-width: 8.5in;
+    margin: 0 !important;
+    padding: 0 !important;
+}
+
+h1:first-of-type {
+    margin: 0 !important;
+    padding: 0 !important;
+    border: none !important;
+}
+
+h1, h2, h3 {
+    font-weight: 600;
+    margin: 0.5em 0;
+    border-bottom: 1px solid rgb(175, 175, 175);
+    padding-bottom: 5px;
+}
+
+a {
+    color: #036efa;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+/* Force page break before EDUCATION section */
+h2:contains('EDUCATION & CERTIFICATIONS'),
+h2:contains('EDUCATION'),
+#education,
+.education-section {
+    page-break-before: always !important;
+    break-before: page !important;
+}
