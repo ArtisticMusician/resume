@@ -10,17 +10,17 @@
 
 ## SUMMARY
 
-Creative Technologist with over 20 years of experience blending deep expertise in 2D and 3D visual art, music composition and production and AI use and development. Proven ability to architect and deliver high-impact applications, from agentic AI systems to cross-platform apps. Passionate about building modular, local-first solutions that merge artistic intuition with technical precision with a focus on providing the best user experience possible.
+Creative Technologist with over 20 years of experience and deep expertise in 2D and 3D visual art, music composition and production and AI use and development. Proven ability to architect and deliver high-impact applications, from agentic AI systems to cross-platform apps. Passionate about creating things people find useful or enjoy. I'm all about modular, local-first solutions where I can use my artistic skills and technical precision with a focus on providing the best user experience possible.
 
 ---
 
 ## TECHNICAL SKILLS
 
 * **AI & Machine Learning:** LLM Fine-Tuning (LoRA/QLoRA), RAG Systems, Vector Databases, Agentic AI (CrewAI, LangChain, Autogen, N8N), Local LLM Deployment (Ollama, LM Studio), Image Generation (Stable Diffusion, ComfyUI, Fooocus).
-* **Programming & Development:** React, Typescript, Node.js, CSS Modules, Python, Modular App Architecture.
+* **Programming & Development:** (AI assisted) React, Typescript, Node.js, CSS Modules, Python, Modular App Architecture.
 * **3D & Visual Design:** 3D Modeling & Sculpting, Retopology, UVs, PBR Texturing, Product Visualization, Lighting, Rendering, Animation, UI/UX, Graphic Design, Complex Pattern Creation.
 * **Design & 3D Software:** Maya, ZBrush, Rhino3D, Marvelous Designer, Substance Painter, Unreal Engine, Photoshop, Illustrator, After Effects, DaVinci Resolve, MotionBuilder.
-* **Music & Audio:** Composition, Songwriting, Sound Design, Recording, Mixing, Mastering, Cubase, Reason Studio, Ableton Live, Izotope RX, Synthesizer V.
+* **Music & Audio:** Composition, Songwriting, Sound Design, Recording, Mixing, Mastering, Cubase, Reason Studio, Ableton Live, Izotope RX, Synthesizer V, Various Plugins
 
 ---
 
@@ -29,10 +29,10 @@ Creative Technologist with over 20 years of experience blending deep expertise i
 **Technologist, Artist & Developer – Self-Employed** | San Diego, CA (2016–Present)
 
 * **AI Research & App Development:**
-  * Developed and deployed multiple AI-Driven applications, including **Lyrical Lab** (a cross-platform songwriting tool), **Therapal** (an AI-powered Telegram therapy chatbot), **Flux Fusion Toolkit** (a node-based automation editor & data manipulation tool). **Neural Nexus** (better short term and long term memory for AI that uses both SQL & Vector DB, as well as RAG)
+  * Developed multiple AI-Driven applications, including **Lyrical Lab** (a cross-platform songwriting tool), **Therapal** (an AI-powered Telegram therapy chatbot), **Flux Fusion Toolkit** (a node-based automation editor & data manipulation tool) -Still developing the Node Editor. **Neural Nexus** (better short term and long term memory for AI that uses both SQL & Vector DB, as well as RAG)
   * Fine-tuned open-source LLMs (LoRA/QLoRA) for specialized tasks and automated dataset curation.
-  * Built a screenshot plugin for Gemini-CLI so that it could take it's own screenshots while working on UI pieces.
-  * Setup a sandboxed environment with in depth guides and guardrails to have Gemini-CLI create and test various rhyming algorithms using pronouncing phonemes as it's base. I used a scoring system by which the AI could base whether the algorithm was doing well or poorly. After a bit of trial and error the AI worked autonomously.
+  * Built a screenshot plugin for Gemini-CLI so that it could take it's own screenshots.
+  * Setup and environment to use Gemini-CLI to autonomously create, and test Rhyming algorithms that uses pronunciation phonemes to come up with rhyme lists. <https://github.com/ArtisticMusician/AI-Agent-Rhyme-Algorithm-Case-Study>
 
 * **Visual Art & 3D:**
   * Delivered photorealistic 3D product visualizations for Kargo Master, reducing photography costs by over $100K.
