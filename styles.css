@@ -1,0 +1,86 @@
+/* --- Page Layout and Margins --- */
+@page {
+    size: letter;
+    margin: 0.35in; /* Simplified margin for all sides */
+}
+
+/* --- General Document Styles --- */
+body {
+    font-family: 'Arial', 'Helvetica', sans-serif;
+    font-size: 11pt;
+    line-height: 1.4;
+    color: #000000;
+}
+
+/* --- Heading Styles --- */
+h1 { /* Name */
+    font-size: 18pt;
+    font-weight: bold;
+    color: #00274e;
+    text-align: left;
+    margin-top: 0;
+    margin-bottom: 0; /* Added a little space after your name */
+}
+
+h2 { /* Section Titles */
+    font-size: 13pt;
+    font-weight: bold;
+    color: #2e5b88;
+    border-bottom: 1px solid #2e5b88;
+    padding-bottom: 2px; /* Added a little padding */
+    margin-top: 0;  /* Added space between sections for readability */
+    margin-bottom: 0;
+}
+
+h3 { /* Job Titles */
+    font-size: 12pt;
+    font-weight: bold;
+    color: #34495e;
+    margin-bottom: 0;
+}
+
+/* --- Other Element Styles --- */
+p:has(+ hr) {
+    text-align: left;
+}
+
+hr { /* Horizontal Lines */
+    border: 0;
+    border-top: 1px solid #e4e4e4;
+    height: 1px;
+    margin: 0.1in 0;
+    overflow: visible;
+}
+
+ul { /* Main Bullet Lists */
+    padding-left: 15px; /* Increased padding slightly */
+    list-style-type: disc;
+}
+
+li { /* All List Items */
+    margin-bottom: 3px; /* Added a tiny bit of space between list items */
+}
+
+/*
+--- ROBUST NESTED LIST FIX ---
+The following code creates a custom square bullet that is guaranteed to render correctly.
+It hides the default bullet and draws its own.
+*/
+li ul {
+    list-style-type: disc; /* Hide the default (and invisible) bullet */
+    padding-left: 15px;    /* Indentation for the nested list text */
+}
+
+/* --- Link Styles --- */
+a {
+    color: #0075c4;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+.page-break {
+    page-break-after: always;
+}

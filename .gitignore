@@ -4,6 +4,12 @@
 !.vscode/extensions.json
 !.vscode/launch.json
 
+# Continue
+.continue/
+
+# converted pdf files
+.converted/
+
 # Dependencies
 node_modules/
 

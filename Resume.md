@@ -20,7 +20,7 @@ Creative Technologist with over 20 years of experience and deep expertise in 2D 
 * **Programming & Development:** (AI assisted) React, Typescript, Node.js, CSS Modules, Python, Modular App Architecture.
 * **3D & Visual Design:** 3D Modeling & Sculpting, Retopology, UVs, PBR Texturing, Product Visualization, Lighting, Rendering, Animation, UI/UX, Graphic Design, Complex Pattern Creation.
 * **Design & 3D Software:** Maya, ZBrush, Rhino3D, Marvelous Designer, Substance Painter, Unreal Engine, Photoshop, Illustrator, After Effects, DaVinci Resolve, MotionBuilder.
-* **Music & Audio:** Composition, Songwriting, Sound Design, Recording, Mixing, Mastering, Cubase, Reason Studio, Ableton Live, Izotope RX, Synthesizer V, Various Plugins
+* **Music & Audio:** Composition, Songwriting, Sound Design, Recording, Mixing, Mastering, Cubase, Reason Studio, Ableton Live, Izotope RX, Synthesizer V, Various Plugins.
 
 ---
 
@@ -39,7 +39,7 @@ Creative Technologist with over 20 years of experience and deep expertise in 2D 
   * Created and licensed a portfolio of over 2,800 3D illustrations for Adobe Stock and Shutterstock.
   * Worked on numerous independent games and VFX projects both hard surface and organic.
   * Modeled and textured assets for a U.S. Navy training game in Unreal Engine 5.
-  * 3D ork featured in *3D World Magazine* (Motionbuilder 2025). July 2024 issue.
+  * 3D work featured in *3D World Magazine* (Motionbuilder 2025). July 2024 issue.
 
 * **Music Production (as Laser Rot):**
   * Signed to first Record Label in 2015 under the artist name **Laser Rot**
@@ -69,6 +69,8 @@ Creative Technologist with over 20 years of experience and deep expertise in 2D 
 
 * Led multimedia production, including web design, video editing, and audio production.
 * Designed the company branding and UI for a several social platforms.
+
+<div class="page-break"></div>
 
 ## AWARDS & RECOGNITION
 
