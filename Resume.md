@@ -81,8 +81,8 @@ Creative Technologist with over 20 years of experience and deep expertise in 2D 
 
 ## EDUCATION & CERTIFICATIONS
 
-**Columbus College of Art and Design** – Columbus, OH (2004–2006)  
-*Studies in Time-Based Media (Traditional Animation, Video Production) & Foundation Studies.*  
+**Columbus College of Art and Design** – Columbus, OH (2004–2006)
+*Studies in Time-Based Media (Traditional Animation, Video Production) & Foundation Studies.*
 *Note: Advanced 3D and AI expertise achieved through extensive self-study and practical application.*
 
 The following certifications were completed through LinkedIn Learning in 2016:
