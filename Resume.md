@@ -81,12 +81,26 @@ Creative Technologist with over 20 years of experience and deep expertise in 2D 
 
 ## EDUCATION & CERTIFICATIONS
 
-**Columbus College of Art and Design** – Columbus, OH (2004–2006)
-*Studies in Time-Based Media (Traditional Animation, Video Production) & Foundation Studies.*
+**Columbus College of Art and Design** – Columbus, OH (2004–2006)  
+*Studies in Time-Based Media (Traditional Animation, Video Production) & Foundation Studies.*  
 *Note: Advanced 3D and AI expertise achieved through extensive self-study and practical application.*
 
-The following certifications were completed through LinkedIn Learning in 2016:
+### LinkedIn Learning Certifications
 
-* After Effects Compositing Levels 1–3
+**2022**
+* Introduction to NFTs: Non-fungible Tokens
+* Rhino 7 Essential Training
+
+**2021**
+* Adobe After Effects CC 2021 Essential Training: Motion Graphics
+* Adobe Illustrator 2021 Essential Training
+* Time-Saving Tips Using Illustrator
+* ZBrush: Sculpting Portraits
+* Rapid Prototyping for Product Design
+* Maya: Advanced Texturing
+* Luminar Essential Training
+
+**2016**
+* After Effects Compositing (Levels 1–3)
 * Maya Advanced Texturing
 * Audio Design for Interactive Projects

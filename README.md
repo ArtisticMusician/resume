@@ -1,4 +1,4 @@
-# Markdown to PDF Resume Converter (Conda Edition)
+# Markdown to PDF Resume Converter
 
 A simple and powerful Python script for converting a Markdown resume into a beautifully styled, professional PDF.
 
@@ -22,31 +22,61 @@ Follow these steps in your terminal to set up a dedicated Conda environment for 
 
 ### 1. Create the Conda Environment
 
-First, create a new, clean environment for the project. We'll name it `resume_conda` and install Python in it.
+First, create a new, clean environment for the project. We'll name it `resume` and install Python in it.
 
- conda create --name resume_conda python=3.10
+```bash
+conda create --name resume python=3.10
+conda activate resume
+```
 
-*(The command will ask you to proceed (`y/n`). Type `y` and press Enter.)*
+### 2. Install Dependencies
 
-### 2. Activate the Environment
+With the environment active, install the required packages using the provided `requirements.txt` file:
 
-Before you can use the environment or install packages, you must activate it.
+```bash
+pip install -r requirements.txt
+```
 
- conda activate resume_conda
+### 3. Install WeasyPrint (Required for PDF Generation)
 
-Your terminal prompt should now change to show `(resume_conda)` at the beginning, indicating that the environment is active.
+For Windows users, WeasyPrint is best installed via conda-forge:
 
-### 3. Install Dependencies
+```bash
+conda install -c conda-forge weasyprint
+```
 
-With the environment active, install the necessary Python library using `pip`. Pip works perfectly inside a Conda environment for packages that aren't on Conda channels.
+### 4. Install Additional Dependencies
 
- pip install markdown-pdf
+```bash
+pip install markdown2pdf markdown2
+```
 
 The setup is now complete! You only need to do these steps once.
 
 ---
 
 ## How to Use
+
+### Basic Usage
+
+1. Place your Markdown resume in the project directory (default: `resume.md`)
+2. Customize the styling in `styles.css` if desired
+3. Run the converter:
+
+```bash
+python convert.py
+```
+
+### Command Line Options
+
+- `-m, --markdown`: Specify input Markdown file (default: resume.md)
+- `-c, --css`: Specify custom CSS file (default: styles.css)
+- `-o, --output`: Specify output PDF filename (default: YYYYMMDD_resume.pdf)
+
+Example with custom files:
+```bash
+python convert.py -m my_resume.md -c custom_styles.css -o my_resume.pdf
+```
 
 Make sure your `resume_conda` environment is active before running the script. If it's not, run `conda activate resume_conda`.
 
