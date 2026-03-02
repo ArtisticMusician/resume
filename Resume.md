@@ -2,8 +2,7 @@
 
 **Creative Technologist** | **AI Developer** | **Visual Artist** | **Music Producer**
 
-* **Visual Portfolio:** <https://Joshs.Art> | **Music Portfolio:** <https://LaserRot.Pro>
-* **LinkedIn:** <https://www.linkedin.com/in/josh-mccann-art/>
+* **Visual Portfolio:** <https://Joshs.Art> | **Music Portfolio:** <https://LaserRot.Pro> | **App Development:** <https://github.com/ArtisticMusician>
 * **(614) 439-2796** | <JoshMcCannJobs@gmail.com> | San Diego, CA
 
 ---
